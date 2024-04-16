@@ -1,0 +1,22 @@
+
+body {
+    background-color: #68d8dc;
+}
+.btn {
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 1px solid #333333;
+}
+p {
+    padding-left: 40px;
+    padding-right: 800px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+a {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: right;
+}
